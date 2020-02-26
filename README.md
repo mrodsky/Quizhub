@@ -8,8 +8,8 @@ Quiz Hub is intended to be a learning project to learn by-doing , and working wi
 + TFS DevOps
 + AWS 
 
-
+### Authors 
 Michael Rodsky 
 Mohit Sharma
 
-#### Created Feb 26 2020 
+##### Created Feb 26 2020 
